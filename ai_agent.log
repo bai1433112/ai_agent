@@ -1,0 +1,350 @@
+2025-11-17 19:32:20,106 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 19:32:46,326 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 19:32:53,963 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 19:34:39,236 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 19:37:46,339 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 19:38:03,480 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 19:38:39,358 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 19:57:41,647 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 19:59:02,760 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 20:04:23,803 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 20:07:08,829 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 20:11:34,443 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 20:12:05,174 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 20:17:40,309 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 20:22:34,145 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 20:39:56,896 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-17 20:39:56,896 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: ./bge_small_zh
+2025-11-17 20:40:15,013 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 20:50:04,793 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-17 20:50:04,793 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: ./bge_small_zh
+2025-11-17 20:50:08,323 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-17 20:50:08,344 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-17 20:50:25,980 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 20:58:23,205 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 21:12:41,471 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 21:18:11,618 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 21:18:17,671 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 21:18:41,062 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-17 21:18:41,062 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: ./bge_small_zh
+2025-11-17 21:19:09,259 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 21:19:38,820 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 21:19:53,051 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-17 21:44:16,798 - __main__ - INFO - 启动AI Agent...
+2025-11-17 21:44:16,799 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-17 21:44:16,800 - __main__ - INFO - 监听线程是否存活：True
+2025-11-17 21:44:17,277 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-17 21:44:26,557 - voice_wake_up - INFO - 检测到唤醒词: 小布
+2025-11-17 21:44:26,558 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 21:44:32,563 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-17 21:44:32,563 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 21:44:36,542 - __main__ - WARNING - AI Agent已在运行中
+2025-11-17 21:44:41,620 - chatbot_voice - WARNING - 未识别到有效语音输入
+2025-11-17 21:44:55,514 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-17 21:44:55,514 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 21:46:42,922 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:46:42,922 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.414875 seconds
+2025-11-17 21:47:11,795 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:47:11,795 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.415667 seconds
+2025-11-17 21:48:22,065 - __main__ - WARNING - AI Agent已在运行中
+2025-11-17 21:48:39,222 - voice_wake_up - INFO - 检测到唤醒词: 小布
+2025-11-17 21:48:39,222 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 21:48:44,880 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:48:44,880 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.818256 seconds
+2025-11-17 21:48:52,606 - voice_wake_up - INFO - 检测到唤醒词: 小布
+2025-11-17 21:48:52,606 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 21:49:02,962 - __main__ - WARNING - AI Agent已在运行中
+2025-11-17 21:49:13,800 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:49:13,800 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.996373 seconds
+2025-11-17 21:50:46,360 - __main__ - WARNING - AI Agent已在运行中
+2025-11-17 21:50:46,788 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:50:46,796 - chatbot_voice - WARNING - 未识别到有效语音输入
+2025-11-17 21:50:49,736 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-17 21:50:49,737 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 21:50:56,151 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:50:56,152 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.410218 seconds
+2025-11-17 21:50:56,312 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:50:56,313 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.385435 seconds
+2025-11-17 21:51:13,378 - __main__ - WARNING - AI Agent已在运行中
+2025-11-17 21:51:16,446 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:51:16,446 - chatbot_voice - WARNING - 未识别到有效语音输入
+2025-11-17 21:52:58,332 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:52:58,333 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.824484 seconds
+2025-11-17 21:53:05,972 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:53:05,972 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.444070 seconds
+2025-11-17 21:54:11,846 - __main__ - WARNING - AI Agent已在运行中
+2025-11-17 21:54:15,879 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-17 21:54:15,879 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 21:55:00,844 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:55:00,845 - chatbot_voice - WARNING - 未识别到有效语音输入
+2025-11-17 21:55:07,945 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:55:07,947 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.993750 seconds
+2025-11-17 21:56:32,420 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:56:32,420 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.409701 seconds
+2025-11-17 21:57:10,104 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:57:10,104 - chatbot_voice - WARNING - 未识别到有效语音输入
+2025-11-17 21:58:34,216 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 21:58:34,216 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.940025 seconds
+2025-11-17 22:02:28,451 - __main__ - INFO - 启动AI Agent...
+2025-11-17 22:02:28,451 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-17 22:02:28,452 - __main__ - INFO - 监听线程是否存活：True
+2025-11-17 22:02:28,620 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-17 22:02:35,450 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-17 22:02:35,450 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 22:03:40,281 - __main__ - INFO - AI Agent已停止
+2025-11-17 22:04:51,821 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 22:04:51,822 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.443590 seconds
+2025-11-17 22:06:53,501 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 22:06:53,502 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.951165 seconds
+2025-11-17 22:08:56,009 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 22:08:56,010 - chatbot_voice - WARNING - 未识别到有效语音输入
+2025-11-17 22:57:05,493 - __main__ - INFO - 启动AI Agent...
+2025-11-17 22:57:05,495 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-17 22:57:05,496 - __main__ - INFO - 监听线程是否存活：True
+2025-11-17 22:57:05,582 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-17 22:57:11,465 - voice_wake_up - INFO - 检测到唤醒词: 小布
+2025-11-17 22:57:11,465 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 22:59:27,974 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 22:59:27,975 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.435347 seconds
+2025-11-17 23:01:29,170 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 23:01:29,172 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.924885 seconds
+2025-11-17 23:03:30,911 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 23:03:30,913 - chatbot_voice - WARNING - 未识别到有效语音输入
+2025-11-17 23:04:19,478 - __main__ - INFO - 启动AI Agent...
+2025-11-17 23:04:19,478 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-17 23:04:19,478 - __main__ - INFO - 监听线程是否存活：True
+2025-11-17 23:04:19,626 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-17 23:04:23,774 - voice_wake_up - INFO - 检测到唤醒词: 小布
+2025-11-17 23:04:23,774 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 23:04:24,010 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-17 23:04:24,010 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 23:06:40,098 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 23:06:40,099 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.466355 seconds
+2025-11-17 23:08:41,606 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 23:08:41,606 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.893879 seconds
+2025-11-17 23:10:43,289 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 23:10:43,289 - chatbot_voice - WARNING - 未识别到有效语音输入
+2025-11-17 23:23:05,272 - __main__ - INFO - 启动AI Agent...
+2025-11-17 23:23:05,273 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-17 23:23:05,275 - __main__ - INFO - 监听线程是否存活：True
+2025-11-17 23:23:05,422 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-17 23:23:09,794 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-17 23:23:09,794 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 23:23:10,074 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-17 23:23:10,074 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 23:23:26,344 - chatbot_voice - WARNING - 未识别到有效语音输入
+2025-11-17 23:25:26,005 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 23:25:26,006 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.494982 seconds
+2025-11-17 23:25:29,102 - __main__ - INFO - 启动AI Agent...
+2025-11-17 23:25:29,104 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-17 23:25:29,105 - __main__ - INFO - 监听线程是否存活：True
+2025-11-17 23:25:29,265 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-17 23:25:32,881 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-17 23:25:32,881 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 23:25:33,407 - voice_wake_up - INFO - 检测到唤醒词: 小布
+2025-11-17 23:25:33,407 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-17 23:25:50,413 - chatbot_voice - INFO - 识别到语音: 你 喜欢 干 什么
+2025-11-17 23:25:50,413 - __main__ - INFO - 用户输入: 你 喜欢 干 什么
+2025-11-17 23:25:50,413 - __main__ - INFO - AI回复: None
+2025-11-17 23:25:50,413 - __main__ - INFO - AI Agent已停止
+2025-11-17 23:27:27,548 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 23:27:27,548 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.854750 seconds
+2025-11-17 23:27:49,282 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 23:27:49,283 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.389502 seconds
+2025-11-17 23:29:29,525 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 23:29:29,532 - chatbot_voice - WARNING - 未识别到有效语音输入
+2025-11-17 23:29:50,483 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 23:29:50,483 - openai._base_client - INFO - Retrying request to /audio/transcriptions in 0.956238 seconds
+2025-11-17 23:31:52,582 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/audio/transcriptions "HTTP/1.1 504 Gateway Timeout"
+2025-11-17 23:31:52,583 - chatbot_voice - WARNING - 未识别到有效语音输入
+2025-11-18 10:54:32,487 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-18 21:23:33,960 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-18 21:24:05,006 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-18 21:24:09,865 - __main__ - INFO - 启动AI Agent...
+2025-11-18 21:24:09,865 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-18 21:24:09,867 - __main__ - INFO - 监听线程是否存活：True
+2025-11-18 21:24:10,248 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-18 21:24:19,867 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-18 21:24:19,868 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-18 21:24:36,740 - chatbot_voice - WARNING - 未识别到有效语音输入
+2025-11-18 21:25:09,813 - voice_wake_up - INFO - 检测到唤醒词: 小布
+2025-11-18 21:25:09,814 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-18 21:25:26,990 - chatbot_voice - INFO - 识别到语音: 你 喜欢 干 什么
+2025-11-18 21:25:26,990 - __main__ - INFO - 用户输入: 你 喜欢 干 什么
+2025-11-18 21:25:26,990 - __main__ - INFO - AI回复: None
+2025-11-18 21:25:26,990 - __main__ - INFO - AI Agent已停止
+2025-11-18 21:26:26,397 - __main__ - INFO - 启动AI Agent...
+2025-11-18 21:26:26,397 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-18 21:26:26,398 - __main__ - INFO - 监听线程是否存活：True
+2025-11-18 21:26:26,581 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-18 21:26:36,295 - voice_wake_up - INFO - 检测到唤醒词: 小布
+2025-11-18 21:26:36,295 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-18 21:26:53,496 - chatbot_voice - INFO - 识别到语音: 你 喜欢 干 什么
+2025-11-18 21:26:53,496 - __main__ - INFO - 用户输入: 你 喜欢 干 什么
+2025-11-18 21:26:53,496 - __main__ - INFO - AI回复: None
+2025-11-18 21:26:53,496 - __main__ - INFO - AI Agent已停止
+2025-11-18 21:42:09,861 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-18 21:52:27,525 - __main__ - INFO - 启动AI Agent...
+2025-11-18 21:52:27,525 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-18 21:52:27,526 - __main__ - INFO - 监听线程是否存活：True
+2025-11-18 21:52:27,664 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-18 21:52:42,469 - voice_wake_up - INFO - 检测到唤醒词: 小布
+2025-11-18 21:52:42,469 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-18 21:52:59,815 - chatbot_voice - INFO - 识别到语音: 你 喜欢 干 什么
+2025-11-18 21:52:59,815 - __main__ - INFO - 用户输入: 你 喜欢 干 什么
+2025-11-18 21:52:59,816 - __main__ - INFO - AI回复: None
+2025-11-18 21:52:59,816 - __main__ - INFO - AI Agent已停止
+2025-11-18 22:25:17,308 - __main__ - INFO - 启动AI Agent...
+2025-11-18 22:25:17,310 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-18 22:25:17,311 - __main__ - INFO - 监听线程是否存活：True
+2025-11-18 22:25:17,449 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-18 22:25:29,910 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-18 22:25:29,911 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-18 22:25:46,582 - chatbot_voice - INFO - 识别到语音: 现在 几点 了
+2025-11-18 22:25:46,582 - __main__ - INFO - 用户输入: 现在 几点 了
+2025-11-18 22:28:12,743 - __main__ - WARNING - AI Agent已在运行中
+2025-11-18 22:29:19,396 - __main__ - INFO - 启动AI Agent...
+2025-11-18 22:29:19,397 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-18 22:29:19,398 - __main__ - INFO - 监听线程是否存活：True
+2025-11-18 22:29:19,530 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-18 22:29:22,734 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-18 22:29:22,734 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-18 22:29:40,113 - chatbot_voice - INFO - 识别到语音: 也 喜欢 干 什么
+2025-11-18 22:29:40,113 - __main__ - INFO - 用户输入: 也 喜欢 干 什么
+2025-11-18 22:30:13,877 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-18 22:30:18,162 - chatbot_voice - ERROR - 生成回复时出错: [WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'C:\\Users\\ikun\\AppData\\Local\\Temp\\tmpxaotgeb6.mp3'
+2025-11-18 22:30:18,163 - __main__ - INFO - AI回复: 抱歉,我在处理您的问题时遇到了一些困难。
+2025-11-18 22:30:18,164 - __main__ - INFO - AI Agent已停止
+2025-11-18 22:33:36,977 - __main__ - INFO - 启动AI Agent...
+2025-11-18 22:33:36,977 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-18 22:33:36,977 - __main__ - INFO - 监听线程是否存活：True
+2025-11-18 22:33:37,046 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-18 22:33:40,908 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-18 22:33:40,909 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-18 22:33:57,293 - chatbot_voice - INFO - 识别到语音: 你 喜欢 干 什么
+2025-11-18 22:33:57,293 - __main__ - INFO - 用户输入: 你 喜欢 干 什么
+2025-11-18 22:34:05,718 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-18 22:34:07,607 - chatbot_voice - ERROR - 生成回复时出错: [WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'C:\\Users\\ikun\\AppData\\Local\\Temp\\tmpf8a801nn.mp3'
+2025-11-18 22:34:07,608 - __main__ - INFO - AI回复: 抱歉,我在处理您的问题时遇到了一些困难。
+2025-11-18 22:34:07,608 - __main__ - INFO - AI Agent已停止
+2025-11-18 22:37:11,593 - __main__ - INFO - 启动AI Agent...
+2025-11-18 22:37:11,593 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-18 22:37:11,594 - __main__ - INFO - 监听线程是否存活：True
+2025-11-18 22:37:11,659 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-18 22:37:19,047 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-18 22:37:19,047 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-18 22:37:36,353 - chatbot_voice - INFO - 识别到语音: 你 喜欢 干 什么 哇靠 早
+2025-11-18 22:37:36,353 - __main__ - INFO - 用户输入: 你 喜欢 干 什么 哇靠 早
+2025-11-18 22:37:49,071 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-18 22:37:51,303 - chatbot_voice - ERROR - 生成回复时出错: [WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'C:\\Users\\ikun\\AppData\\Local\\Temp\\tmpjmzf0lmi.mp3'
+2025-11-18 22:37:51,304 - __main__ - INFO - AI回复: 抱歉,我在处理您的问题时遇到了一些困难。
+2025-11-18 22:37:51,304 - __main__ - INFO - AI Agent已停止
+2025-11-18 22:40:39,360 - __main__ - INFO - 启动AI Agent...
+2025-11-18 22:40:39,361 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-18 22:40:39,361 - __main__ - INFO - 监听线程是否存活：True
+2025-11-18 22:40:39,495 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-18 22:40:44,059 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-18 22:40:44,059 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-18 22:41:02,068 - chatbot_voice - INFO - 识别到语音: 他 可以 这么 干 什么 的 日子
+2025-11-18 22:41:02,068 - __main__ - INFO - 用户输入: 他 可以 这么 干 什么 的 日子
+2025-11-18 22:41:37,269 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-18 22:41:53,615 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-18 22:42:11,988 - __main__ - INFO - AI Agent已停止
+2025-11-18 22:45:54,685 - __main__ - INFO - 启动AI Agent...
+2025-11-18 22:45:54,685 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-18 22:45:54,687 - __main__ - INFO - 监听线程是否存活：True
+2025-11-18 22:45:54,821 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-18 22:45:58,198 - __main__ - INFO - AI Agent已停止
+2025-11-18 22:46:05,187 - __main__ - INFO - 启动AI Agent...
+2025-11-18 22:46:05,187 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-18 22:46:05,188 - __main__ - INFO - 监听线程是否存活：True
+2025-11-18 22:46:05,255 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-18 22:46:07,295 - voice_wake_up - INFO - 检测到唤醒词: 小布
+2025-11-18 22:46:07,295 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-18 22:46:12,840 - __main__ - INFO - AI Agent已停止
+2025-11-18 22:46:22,651 - __main__ - INFO - 启动AI Agent...
+2025-11-18 22:46:22,651 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-18 22:46:22,651 - __main__ - INFO - 监听线程是否存活：True
+2025-11-18 22:46:22,720 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-18 22:46:27,372 - chatbot_voice - INFO - 识别到语音: 由于 把 你 喜欢 干 什么 可以 直接 光 而又 在 的 他们
+2025-11-18 22:46:27,372 - __main__ - INFO - 用户输入: 由于 把 你 喜欢 干 什么 可以 直接 光 而又 在 的 他们
+2025-11-18 22:46:35,444 - __main__ - INFO - AI Agent已停止
+2025-11-18 22:46:57,092 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 13:38:34,003 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 13:38:36,328 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:38:36,328 - openai._base_client - INFO - Retrying request to /chat/completions in 0.384310 seconds
+2025-11-19 13:38:36,737 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:38:36,738 - openai._base_client - INFO - Retrying request to /chat/completions in 0.990344 seconds
+2025-11-19 13:38:37,759 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:38:53,861 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:38:53,862 - openai._base_client - INFO - Retrying request to /chat/completions in 0.450633 seconds
+2025-11-19 13:38:54,343 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:38:54,344 - openai._base_client - INFO - Retrying request to /chat/completions in 0.911432 seconds
+2025-11-19 13:38:55,281 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:39:57,468 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:39:57,469 - openai._base_client - INFO - Retrying request to /chat/completions in 0.417026 seconds
+2025-11-19 13:39:57,918 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:39:57,918 - openai._base_client - INFO - Retrying request to /chat/completions in 0.783220 seconds
+2025-11-19 13:39:58,726 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:42:12,673 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:42:12,674 - openai._base_client - INFO - Retrying request to /chat/completions in 0.454925 seconds
+2025-11-19 13:42:13,154 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:42:13,154 - openai._base_client - INFO - Retrying request to /chat/completions in 0.837782 seconds
+2025-11-19 13:42:14,015 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:45:23,076 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:45:23,076 - openai._base_client - INFO - Retrying request to /chat/completions in 0.491376 seconds
+2025-11-19 13:45:23,594 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:45:23,594 - openai._base_client - INFO - Retrying request to /chat/completions in 0.951883 seconds
+2025-11-19 13:45:24,570 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:47:07,816 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:47:07,817 - openai._base_client - INFO - Retrying request to /chat/completions in 0.392405 seconds
+2025-11-19 13:47:08,246 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 13:47:08,246 - openai._base_client - INFO - Retrying request to /chat/completions in 0.772478 seconds
+2025-11-19 13:47:09,044 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 14:01:17,734 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 14:01:17,735 - openai._base_client - INFO - Retrying request to /chat/completions in 0.409292 seconds
+2025-11-19 14:01:18,202 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 14:01:18,203 - openai._base_client - INFO - Retrying request to /chat/completions in 0.978858 seconds
+2025-11-19 14:01:19,259 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-11-19 14:07:33,281 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:07:57,465 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:20:39,447 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:20:53,662 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:32:10,741 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:32:20,152 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:32:44,501 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:32:58,225 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:33:06,263 - __main__ - INFO - 启动AI Agent...
+2025-11-19 14:33:06,270 - __main__ - INFO - 回调函数绑定状态：True
+2025-11-19 14:33:06,273 - __main__ - INFO - 监听线程是否存活：True
+2025-11-19 14:33:06,574 - voice_wake_up - INFO - 开始监听唤醒词...
+2025-11-19 14:33:21,632 - voice_wake_up - INFO - 检测到唤醒词: 小布小布
+2025-11-19 14:33:21,632 - __main__ - INFO - 检测到唤醒词，开始录音...
+2025-11-19 14:33:39,513 - chatbot_voice - INFO - 识别到语音: 上海 天气 怎么样
+2025-11-19 14:33:39,514 - __main__ - INFO - 用户输入: 上海 天气 怎么样
+2025-11-19 14:33:43,438 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:33:50,593 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:34:16,691 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-19 14:34:16,692 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: ./bge_small_zh
+2025-11-19 14:34:27,952 - __main__ - INFO - AI Agent已停止
+2025-11-19 14:34:58,256 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:35:07,395 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:35:37,157 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:35:51,936 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:36:17,034 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 14:37:25,465 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 15:18:33,562 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 15:54:26,793 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 16:06:18,342 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 16:06:56,797 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 16:10:39,228 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 16:11:01,830 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 18:41:46,073 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 18:43:55,024 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 18:46:53,130 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-19 18:55:38,848 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-20 15:16:29,413 - openai._base_client - INFO - Retrying request to /chat/completions in 0.459014 seconds
+2025-11-20 15:16:36,811 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-20 15:17:14,761 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-20 15:21:18,150 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 20:00:16,657 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
